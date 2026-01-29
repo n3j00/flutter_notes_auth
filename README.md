@@ -38,7 +38,7 @@ This Notes Application is a mobile app built with Flutter, enabling efficient no
 1. Clone the repository:
 ```bash
 git clone <repository-url>
-cd aplikacja
+cd flutter_notes_auth
 ```
 
 2. Install dependencies:
